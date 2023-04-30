@@ -1,10 +1,6 @@
 # Mixed Reality Features Tool
 
-version:
-	
-	MRTK2 v1.0.2111.1
-
-Official link:
+Chech the official link for the latest version:
 	
 - [Mixed Reality Features Tool - Download](https://www.microsoft.com/en-us/download/details.aspx?id=102778)
 
